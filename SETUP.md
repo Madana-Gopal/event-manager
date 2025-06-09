@@ -11,7 +11,7 @@ This document provides instructions for setting up and running the Event Manager
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Madana-Gopal/event-manager.git
    cd event-manager
    ```
 
