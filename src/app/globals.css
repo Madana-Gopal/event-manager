@@ -24,3 +24,15 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.internal {
+  background-color: #FF5733;
+}
+
+.public {
+  background-color: #b3870c;
+}
+
+.team.offsite {
+  background-color: #3357FF;
+}
