@@ -85,7 +85,7 @@ export default function NewEventPage() {
                   htmlFor="title"
                   className="block text-sm font-medium text-gray-700 mb-1"
                 >
-                  Event Title
+                  Event Title - Example
                 </label>
                 <Field
                   id="title"
